@@ -10,5 +10,10 @@ Check multiple commits
 ## Edit #4
 Check multiple commits
 =======
+###Edit #4
+- point 1
+- point 2
+1. number 1
+2. number 2.
 
 
