@@ -9,8 +9,6 @@ Check multiple commits
 ## Edit #4
 Added 15 Sept 2017
 Check multiple commits
-=======
-###Edit #4
 - point 1
 - point 2
 1. number 1
