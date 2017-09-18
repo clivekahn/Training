@@ -27,6 +27,9 @@ update training dev branch 18 Sept at 14.30
 ## Edit #7
 Update local at 14.36
 
+Edit #8
+Edit #8 Change 18 Sept 2017 to training master only
+
 =======
 
 
