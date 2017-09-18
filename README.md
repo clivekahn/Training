@@ -24,6 +24,9 @@ code
 ## Edit #6
 update training dev branch 18 Sept at 14.30
 
+## Edit #7
+Update local at 14.36
+
 =======
 
 
