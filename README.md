@@ -32,6 +32,9 @@ Change 18 Sept 2017 to training master only
 
 ## Edit #9 
 Change 18 Sept 2017 to training dev only
+
+## Edit #10
+18 Sept 15:40 ONLY master
 =======
 
 
