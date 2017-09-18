@@ -21,6 +21,9 @@ more
 interesting
 code
 ```
+## Edit #6
+update training dev branch 18 Sept at 14.30
+
 =======
 
 
